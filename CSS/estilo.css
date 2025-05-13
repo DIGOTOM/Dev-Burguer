@@ -1,0 +1,15 @@
+body{
+    background-color: #e2eaf1dc;
+}
+#bgImage{
+    background-image: url(../IMG/bg.png);
+}
+/* Ajuste visual extra, se necessário */
+.nav-link:focus {
+    outline: none;
+  }
+  
+  /* Animação suave ao abrir/fechar menu mobile */
+  #mobileMenu {
+    transition: all 0.3s ease-in-out;
+  }
